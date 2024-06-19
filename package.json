@@ -1,0 +1,27 @@
+{
+  "name": "7.2hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tereza-koln/HW-7.2.git"
+  },
+  "author": "Tereza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tereza-koln/HW-7.2/issues"
+  },
+  "homepage": "https://github.com/tereza-koln/HW-7.2#readme",
+  "description": "",
+  "dependencies": {
+    "prettier": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.5.0"
+  }
+}
